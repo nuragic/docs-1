@@ -394,7 +394,7 @@ Aquí te presentamos algunos problemas comunes y sus soluciones sugeridas. Si te
     > npm: command not found
     ```
 
-    **R:** Parece que no instalaste npm. La mejor forma de isntalarlo es descargar el paquete de Node.js en https://nodejs.org y seguir las instrucciones de instalación para tu sistema. Se instalará npm junto con Node.js.
+    **R:** Parece que no instalaste npm. La mejor forma de instalarlo es descargar el paquete de Node.js en https://nodejs.org y seguir las instrucciones de instalación para tu sistema. Se instalará npm junto con Node.js.
 
 * **P:** Cuando ejecuto el servidor me aparece el siguiente error:
 
